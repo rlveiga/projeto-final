@@ -1,28 +1,3 @@
 # Projeto Final
 
-## Whitepapers
-- Bitcoin
-- Ethereum
-- Chainlink
-- Polkadot
-- Cosmos
-- Monero
-- Tezos
-- Elrond
-- Maker
-- Matic
-- Basic Attention Token
-- IOTA
-- Cardano
-- Zcash
-- Litecoin
-- Binance Coin
-- Uniswap
-- Reserve Rights
-
-## Link interessantes
-- https://www.wikidata.org/wiki/Q13479982
-- https://www.comptia.org/content/articles/blockchain-terminology
-- https://academy.bit2me.com/en/crypto-dictionary/
-- https://docs.yearn.finance/defi-glossary
-- https://cointelegraph.com/news/new-tech-allows-crypto-users-to-mint-nfts-with-proof-of-presence
+Este projeto tem como objetivo principal ilustrar o estado atual do ecosistema de blockchain, com um interesse especial em DeFi (Finanças Descentralizadas), através de um grafo gerado a partir de uma coleção de abstracts de projectos e artigos acadêmicos relacionados à esta área. Com a existência de tal grafo, conceitos, problemas e soluções em blockchain ficarão mais visíveis para quem busca aprender mais sobre este tópico e tem dificuldades em saber por onde começar. Surge também a possibilidade de encontrar relações entre conceitos que podem não ser tão claros hoje em dia.
