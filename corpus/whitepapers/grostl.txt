@@ -1,0 +1,8 @@
+The Grøstl hash function is a finalist in the SHA-3 competition organized by NIST. In this paper,
+we describe a number of implementation techniques and tricks for Grøstl. They allow us to develop a
+range of efficient implementations for various platforms, from 8-bit microcontrollers to modern desktop
+processors using 256-bit AVX instructions. These results demonstrate the implementation flexibility
+of the algorithm and we hope will inspire further optimizations and ports to other platforms. The
+information in this paper will also be useful for developers planning to implement Grøstl efficiently on
+the platform of their choice. Furthermore, we believe also hardware implementations may benefit from
+the optimization techniques presented in this paper.

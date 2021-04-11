@@ -1,0 +1,14 @@
+The AdEx team is building the next generation online ad exchange that is based on
+blockchain technology. Our goal is to provide a more efficient, intuitive and transparent
+advertising platform.
+Our aim is to disrupt the existing online advertising landscape and address the significant
+problems it faces such as advertising fraud, privacy and consent to receiving sponsored
+messages, and the rise of ad blockers. With digital surpassing all other advertising mediums
+and accounting for close to 40% of global marketing and ad spend in 2017, we see the need
+of innovation in this area.
+We believe we can empower advertisers and publishers with a platform that is secure,
+transparent and beneficial for all the parties involved in the process including consumers
+who have been left out by existing advertising networks.
+Our expertise in the fields of software development, blockchain & cryptography, video
+streaming and online advertising give us the confidence in creating an ad exchange that will
+be superior to all existing solutions used around the world.

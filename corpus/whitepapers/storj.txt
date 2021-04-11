@@ -1,0 +1,10 @@
+Decentralized cloud storage represents a fundamental shift in the eciency and economics of large-scale storage. Eliminating central control allows users to store and share
+data without reliance on a third-party storage provider. Decentralization mitigates the
+risk of data failures and outages while simultaneously increasing the security and privacy
+of object storage. It also allows market forces to optimize for less expensive storage at a
+greater rate than any single provider could aord. Although there are many ways to build
+such a system, there are some specific responsibilities any given implementation should
+address. Based on our experience with petabyte-scale storage systems, we introduce a
+modular framework for considering these responsibilities and for building our distributed
+storage network. Additionally, we describe an initial concrete implementation for the
+entire framework.

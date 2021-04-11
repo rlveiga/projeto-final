@@ -1,0 +1,46 @@
+This paper is an extension of the original Civic
+whitepaper and expands on the design of the
+token economy of the digital identity ecosystem.
+This expansion aims to incentivize appropriate
+types of behavior within the
+network that optimize efficiency
+and accuracy in identity
+verification services, without
+using oracles which violate user
+privacy. The paper provides an
+overview of the digital identity
+ecosystem and subsequently
+characterizes the network in
+terms of actors, behaviors
+and network attack vectors
+(as defined below). A model
+predicated on game theory is
+then introduced to incentivize
+appropriate behaviors while
+minimizing the risks of any
+attack vectors. The model uses
+a staking mechanism to ensure
+compliance and, given certain
+assumptions on the rationality
+of actors involved, should assure
+the good behavior of actors.
+
+Civic is building an ecosystem that
+is designed to facilitate on-demand,
+secure and low-cost access to identity
+verification services via the blockchain,
+such that background and personal
+information verification checks will no
+longer need to be undertaken from the
+ground up every time. The Civic token,
+or CVC, is intended to allow participants
+in the ecosystem to transact in ID
+verification-related services, while
+ensuring network integrity with game
+theory applications. Civic envisions that
+this ecosystem will reduce the overall
+costs of identity verification, remove
+inefficiencies, enhance security and
+privacy, greatly improve user experience
+and disrupt the current identity
+verification supply chain.

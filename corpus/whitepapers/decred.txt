@@ -1,0 +1,5 @@
+Distributed, token-incentivized timestamping systems ledgers such as Bitcoin have become a mainstay of modern
+finance. We have implemented a platform combining elements of proof-of-work (PoW) and proof-of-stake (PoS)
+blockchains in an attempt to garner the benefits of both systems. Less major change to our consensus network
+include additional elliptic curve signature suites, refinement and modification of the existing scripting language,
+added extensibility in multiple areas to support future changes to the protocol, and distributed stake pooling.

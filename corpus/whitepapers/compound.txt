@@ -1,0 +1,27 @@
+The market for cryptocurrencies and digital blockchain assets has developed into a vibrant
+ecosystem of investors, speculators, and traders, exchanging thousands [1] of blockchain assets.
+Unfortunately, the sophistication of financial markets hasn’t followed: participants have little
+capability of trading the time value of assets.
+Interest rates fill the gap between people with surplus assets they can’t use, and people without
+assets (that have a productive or investment use); trading the time value of assets benefits both
+parties, and creates non-zero-sum wealth. For blockchain assets, two major flaws exist today:
+● Borrowing mechanisms are extremely limited, which contributes to mispriced assets (e.g.
+“scamcoins” with unfathomable valuations, because there’s no way to short them).
+● Blockchain assets have negative yield, resulting from significant storage costs and risks (both
+on-exchange and off-exchange), without natural interest rates to offset those costs. This
+contributes to volatility, as holding is disincentivized.
+Centralized exchanges (including Bitfinex, Poloniex...) allow customers to trade blockchain assets
+on margin, with “borrowing markets” built into the exchange. These are trust-based systems (you
+have to trust that the exchange won’t get hacked, abscond with your assets, or incorrectly close out
+your position), are limited to certain customer groups, and limited to a small number of (the most
+mainstream) assets. Finally, balances and positions are virtual; you can’t move a position on-chain,
+for example to use borrowed Ether or tokens in a smart contract or ICO, making these facilities
+inaccessible to dApps [2].
+Peer to peer protocols facilitate collateralized and uncollateralized loans between market
+participants directly. Unfortunately, decentralization forces significant costs and frictions onto
+users; in every protocol reviewed, lenders are required to post, manage, and (in the event of
+collateralized loans) supervise loan offers and active loans, and loan fulfillment is often slow &
+asynchronous (loans have to be funded, which takes time) [3-6].
+In this paper, we introduce a decentralized system for the frictionless borrowing of Ethereum
+tokens without the flaws of existing approaches, enabling proper money markets to function, and
+creating a safe positive-yield approach to storing assets.

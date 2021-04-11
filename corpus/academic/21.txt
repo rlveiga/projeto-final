@@ -1,0 +1,14 @@
+Cryptocurrencies, based on and led by Bitcoin, have
+shown promise as infrastructure for pseudonymous online payments, cheap remittance, trustless digital asset exchange, and smart contracts. However, Bitcoinderived blockchain protocols have inherent scalability
+limits that trade off between throughput and latency,
+which withhold the realization of this potential.
+This paper presents Bitcoin-NG (Next Generation), a
+new blockchain protocol designed to scale. Bitcoin-NG
+is a Byzantine fault tolerant blockchain protocol that is
+robust to extreme churn and shares the same trust model
+as Bitcoin.
+In addition to Bitcoin-NG, we introduce several novel
+metrics of interest in quantifying the security and efficiency of Bitcoin-like blockchain protocols. We implement Bitcoin-NG and perform large-scale experiments
+at 15% the size of the operational Bitcoin system, using unchanged clients of both protocols. These experiments demonstrate that Bitcoin-NG scales optimally,
+with bandwidth limited only by the capacity of the individual nodes and latency limited only by the propagation
+time of the network.

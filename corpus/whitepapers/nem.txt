@@ -1,0 +1,16 @@
+NEM, in its most basic form, is a crypto currency that is built on block chain
+technology. The NEM block chain is an improvement on existing block
+chain technologies. It integrates concepts from other cryptocurrencies (e.g.
+Bitcoin) and academic research in network theory.
+NEM’s primary contribution to the crypto currency landscape is a new consensus mechanism called Proof of Importance (PoI). Unlike Proof of Work (PoW), it is environmentally sustainable and does not require large scale computing resources in perpetuity. PoI
+is similar to Proof of Stake (PoS) except that it is not solely derived from the size of an
+account’s balance. It incorporates other behaviors that are believed to be positive for the
+holistic economy. In this way, it attempts to reward active economy participants at the
+expense of inactive ones and dampens the rich getting richer effect that is inherent to
+PoS.
+NEM’s vision is to be the foundation of a vibrant crypto currency ecosystem that
+emphasizes security and trustless computing. NEM was launched with built-in support
+for multisig transactions and encrypted messages. Additionally, the peer-to-peer (P2P)
+NEM network implements a modified version of Eigentrust++ to identify and minimize
+the impact of malicious nodes.
+NEM is evolving and this is just the beginning. Stay tuned for more things to come.

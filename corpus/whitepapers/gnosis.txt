@@ -1,0 +1,14 @@
+Prediction markets are poised to become one of the most disruptive innovations in capital markets
+and data science since the beginning of the Information Revolution. First proposed in the early 90s,
+prediction markets have yet to attract mass attention in the realm of forecasting and decision-making
+despite their documented efficacy for information aggregation. This is largely due to over-regulation
+in many of the world’s leading financial sectors. With the invention of powerful, peer-to-peer
+computing technologies such as Ethereum and Bitcoin, the scientific exploration of market-based
+forecasting can proceed uninhibited and at a rate and scale previously unimaginable. Our team
+believes undoubtedly that prediction markets will disrupt some of the largest existing industries in
+the near term. Looking forward, we expect that the Gnosis prediction market platform will form the
+basis for machine information economies on a global scale.
+In order for a prediction market platform to become truly disruptive, it must be universal and
+draw from a global liquidity pool. The platform must be decentralized, permissionless, and trustless
+for such a liquidity pool to exist. With these requirements in mind, the Gnosis team has selected the
+Ethereum network as the core protocol upon which the platform will be built.

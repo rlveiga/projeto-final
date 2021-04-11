@@ -1,0 +1,30 @@
+Celsius Network is developing a new foundation to drive the
+emerging crypto-assets based economy. Members will gain access
+to fiat-currency loans using their crypto coins as collateral. Later
+on, Celsius will also provide a new way for crypto-assets holders
+(Lenders) to leverage their holdings and get rewarded simply by
+transferring their assets under management to the Celsius platform
+wallet from their current wallet or cold storage device. Celsius will
+generate income for coin holders by allowing hedge funds and
+crypto funds, to create short positions on cryptocurrencies using
+actual coins borrowed from the Celsius pool of lenders. The top 20
+crypto-assets will be accessed and charged fees for the shorting or
+purchased for leveraged margin trades.
+The system protocols will be optimized to provide the most value
+for both lenders and borrowers by utilizing advanced algorithms
+to maximize matching of bid and ask contracts and optimizing
+profitability for the lender community. Celsius will use a modified
+Black-Scholes algorithm to generate the amount of deposit required
+from borrowers for each coin. The interest paid for each coin will be
+produced algorithmically, but borrowers may compete for a better
+chance to loan coins by bidding in a reverse auction market.
+Celsius plans to open a new liquid market with easy to use agile
+trading tools for crypto borrowers which will have a much lower
+costs than the proposed futures and options markets planned by
+the CME, CBOE and NASDAQ. Celsius will provide a large and robust
+crypto-assets pool from lenders allowing borrowers to leverage
+margin trades. Celsius aims to offer various incentives for lenders to
+keep their assets in the pool. For example, cash surplus will be used
+to enable dollar margin loans to lenders against their crypto assets
+which helps offset the short only positions opened by borrowers
+and lock in coins from leaving the platform.

@@ -1,0 +1,8 @@
+In this white paper, we present the Ankr Blockchain, a multi-chain
+and useful work based decentralized network with a native data
+feed. We first review a novel mining solution using the Proof of
+Useful Work (PoUW) consensus. We will explain the Multiple-Chain
+Structure and then describe how we plan to provide an generic
+interface for Town Crier, an authenticated data feed for smart contracts. We will also discuss how Ankr’s technologies will enable decentralized cloud computing. Finally, we will characterize the Ankr
+Ecosystem and the app interface to further facilitate the utilization
+of the Ankr network.

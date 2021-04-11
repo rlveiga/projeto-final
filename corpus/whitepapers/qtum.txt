@@ -1,0 +1,30 @@
+Before the birth of Bitcoin, global information transmission was achieved through the Internet's
+TCP/IP (Transmission Control Protocol / Internet Protocol) protocol to achieve high-speed and
+low-cost transmission. But as the communication technology developed (Internet, IoT, VR / AR),
+people and devices interaction methods have become more diversified and more assets are digitized
+or tokenized. Simply sharing and transmission of information cannot meet the demands of economic
+and social development, so when assets are digitalized or tokenized, people pay more and more
+attention to value transfer and how to transfer these assets and value point-to-point.
+On October 31, 2008, Satoshi Nakamoto published the first Bitcoin white paper, "Bitcoin: A
+Peer-to-Peer Electronic Cash System", and proposed the value transfer through the decentralized
+Bitcoin network. In the Bitcoin system, participants throughout the network directly control the
+transactions, and both parties to the transaction can complete the transaction without establishing a
+trust relationship. Blockchain technology has changed the way we acquire and share information,
+creating a new distributed, peer-to-peer ecological society.
+Since the Bitcoin code was open-sourced in 2009, many blockchain projects have appeared in the
+community. Some projects are committed to becoming a universal smart contract and decentralized
+application platform, and the blockchain industry is developing these new technologies also with an
+industry application perspective. The growth of blockchain faces many challenges, which are mainly
+reflected in the following aspects:
+1. There is insufficient compatibility between different blockchain platforms. For example, the Bitcoin
+ecosystem based on the UTXO (Unspent Transaction Output) model is not compatible with the
+Ethereum ecosystem based on the Account model, and the interoperability between blockchains is
+not strong;
+2. On-chain governance of critical technical parameters is difficult to achieve. For most decentralized
+platforms, once the mainnet deployment is completed, upgrade and governance of the blockchain is
+a major problem;
+3. The consensus mechanism lacks flexibility. The Proof-of-Work consensus mechanism has certain
+limitations in terms of energy requirements and incentives for miners and currency holders, and there
+is a risk of centralization in mining computing power;
+4. Lack of new smart contract platforms. Most blockchain projects lack a connection to the real
+world, limiting the wide application for various industries.

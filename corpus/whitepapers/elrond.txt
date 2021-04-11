@@ -1,0 +1,20 @@
+The advent of secure public blockchains through
+Bitcoin and later Ethereum, has brought forth a notable degree
+of interest and capital influx, providing the premise for a
+global wave of permissionless innovation. Despite lofty promises,
+creating a decentralized, secure and scalable public blockchain
+has proved to be a strenuous task.
+This paper proposes Elrond, a novel architecture which goes
+beyond state of the art by introducing a genuine state sharding
+scheme for practical scalability, eliminating energy and computational waste while ensuring distributed fairness through a
+Secure Proof of Stake (SPoS) consensus. Having a strong focus on
+security, Elrond’s network is built to ensure resistance to known
+security problems like Sybil attack, Nothing at Stake attack and
+others. In an ecosystem that strives for interconnectivity, our
+solution for smart contracts offers an EVM compliant engine to
+ensure interoperability by design.
+Preliminary simulations and testnet results reflect that Elrond
+exceeds Visa’s average throughput and achieves an improvement
+beyond three orders of magnitude or 1000x compared to the
+existing viable approaches, while drastically reducing the costs
+of bootstrapping and storage to ensure long term sustainability

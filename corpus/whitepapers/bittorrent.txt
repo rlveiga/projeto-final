@@ -1,0 +1,15 @@
+The BitTorrent protocol, created by BitTorrent Inc., facilitates the exchange of files between
+untrusted parties. Its primary limitation is that collaborations between parties using the protocol
+cannot persist over time, inhibiting the exchange. Blockchain technologies allow for
+collaborations between untrusted parties to persist over much longer periods of time. BitTorrent
+has the ecosystem and expertise necessary to integrate blockchain technologies into the
+BitTorrent protocol. Doing so would both eliminate the protocol’s existing flaw as well as open
+up a new borderless economy in exchanging value for computing resources on a global scale.
+To accomplish this, TRON Foundation and BitTorrent Foundation are introducing a new
+cryptographic token, called BTT, along with an extended version of the BitTorrent protocol.
+Together, the token and extended protocol will create a token-based economy for networking,
+bandwidth and storage usage. The initial entry point is to introduce token-based optimizations
+to the existing BitTorrent protocol, providing a way for the value of shared bandwidth to be
+captured by network participants. The longer-term vision is to broaden the usage of the
+BitTorrent protocol far beyond current use cases by providing a distributed infrastructure
+platform to third-party app developers, creating the foundation for the decentralized web.

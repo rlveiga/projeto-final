@@ -1,0 +1,6 @@
+The Bancor protocol enables built-in price discovery and a liquidity mechanism for
+1
+tokens on smart contract blockchains. These “smart tokens” hold one or more other tokens in
+reserve, and enable any party to instantly purchase or liquidate the smart token in exchange for
+one of its reserve tokens, directly through the smart token’s contract, at a continuously
+calculated price, according to a formula which balances buy and sell volumes.
