@@ -1,7 +1,0 @@
-Throughout history people have established trust through technology, rule of law, and communities.
-
-However, trust and collaboration between entities involves multiple sources and isolated systems, which means it can be costly, and therefore hinders the breadth and depth of collaboration potential. Although the technology has advanced a great deal in recent times, too many factors are still hindering collaboration with trust. These include fragmentation of trust systems, the missing role of the individual, inaccurate identity verification, inability to dispute false information, etc. In areas such as social governance, economic cooperation, and financial services, the cost of establishing trust is huge.
-
-The decentralized, tamper-proof blockchain has brought trust through technology to certain industries, however, further integrative mechanisms are needed to join together diverse trust systems and applications into a single new trust ecosystem.
-
-Ontology establishes the connecting infrastructure for a trust ecosystem, with effective coordination of trust and data sources, as well as providing the infrastructure for distributed application development. 1 This paper focuses on Ontology’s technological framework, key technology principles, and core protocols.

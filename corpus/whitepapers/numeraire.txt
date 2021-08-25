@@ -1,5 +1,0 @@
-Machine learning competitions are susceptible to intentional overfitting. Numerai
-proposes Numeraire, a new cryptographic token that can be used in a novel auction
-mechanism to make overfitting economically irrational. The auction mechanism
-leads to equilibrium bidding behavior that reveals rational data scientists’ confidence in their models’ ability to perform well on new data. The auction mechanism
-also yields natural arguments for the economic value of a Numeraire token.

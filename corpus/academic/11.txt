@@ -1,8 +1,0 @@
-We document our experiences in teaching smart contract
-programming to undergraduate students at the University of Maryland,
-the first pedagogical attempt of its kind. Since smart contracts deal directly with the movement of valuable currency units between contratual
-parties, security of a contract program is of paramount importance.
-Our lab exposed numerous common pitfalls in designing safe and secure smart contracts. We document several typical classes of mistakes
-students made, suggest ways to fix/avoid them, and advocate best practices for programming smart contracts. Finally, our pedagogical efforts
-have also resulted in online open course materials for programming smart
-contracts, which may be of independent interest to the community.

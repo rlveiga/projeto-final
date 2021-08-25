@@ -1,6 +1,0 @@
-In an announcement from August 26th, a team of developers revealed the SushiSwap project — an initiative attempted to be “an evolution of Uniswap with SUSHI tokenomics.”
-The team has taken one of the core concepts behind Uniswap — incentivized liquidity provision, and added further stimuli for those who decide to stake their tokens into the protocol. With Uniswap, liquidity providers receive a share of the trading fees of the corresponding pool for as long as they provide liquidity in it.
-With SushiSwap, users can also provide liquidity and receive fee rewards, but they can also simply hold the native token called SUSHI and continue receiving part of the fees. The mechanism is similar to that of Uniswap.
-0.25% of the fees go to the liquidity providers.
-0.05% of the fees get converted back to SUSHI and distributed to SUSHI holders.
-With Uniswap, liquidity providers receive 0.3% of the fees generated in the respective pool.
