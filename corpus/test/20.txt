@@ -1,0 +1,1 @@
+Synthetix is a decentralised synthetic asset issuance protocol built on Ethereum.

@@ -1,0 +1,1 @@
+The Bancor Protocol enables automatic price determination and an autonomous liquidity mechanism for tokens on smart contract blockchains.

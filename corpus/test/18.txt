@@ -1,0 +1,1 @@
+This paper proposes a new blockchain architecture based on Proof of History (PoH) - a proof for verifying order and passage of time between events.

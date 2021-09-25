@@ -1,0 +1,1 @@
+The Matic Network is an adapted implementation of the Plasma framework for Ethereum to start with, but the “vision” of the Matic development team is to provide off/side chain scaling solutions for blockchains in general.

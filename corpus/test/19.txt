@@ -1,0 +1,1 @@
+This paper provides an overview of the Stacks 2.0 blockchain, a layer-1 blockchain that brings smart contracts and decentralized apps to Bitcoin.

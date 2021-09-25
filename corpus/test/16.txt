@@ -1,0 +1,1 @@
+We then describe the Reserve Protocol, a decentralized stablecoin system that scales supply with demand and is built to maintain 100% or more on-chain collateral backing.

@@ -1,0 +1,1 @@
+We describe the on-chain components that ChainLink provides for contracts to gain external connectivity, and the software powering the nodes of the network.
