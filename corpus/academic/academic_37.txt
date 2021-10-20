@@ -1,0 +1,13 @@
+Many aspects of blockchain-based decentralized finance can
+be understood as an extension of classical distributed computing. In this
+paper, we trace the evolution of two interrelated notions: failure and
+fault-tolerance. In classical distributed computing, a failure to complete
+a multi-party protocol is typically attributed to hardware malfunctions.
+A fault-tolerant protocol is one that responds to such failures by rolling
+the system back to an earlier consistent state. In the presence of Byzantine failures, a failure may be the result of an attack, and a fault-tolerant
+protocol is one that ensures that attackers will be punished and victims
+compensated. In modern decentralized finance however, failure to complete a protocol can be considered a legitimate option, not a transgression. A fault-tolerant protocol is one that ensures that the party offering
+the option cannot renege, and the party purchasing the option provides
+fair compensation (in the form of a fee) to the offering party. We sketch
+the evolution of such protocols, starting with two-phase commit, and
+finishing with timed hashlocked smart contracts.

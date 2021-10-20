@@ -1,0 +1,21 @@
+In this review, we evaluate the mechanisms
+behind the decentralized finance protocols
+for generating stable, passive income. Currently, some savings interest rates can be
+as high as 20% annually, payable in traditional currency values such as US dollars.
+Therefore, one can benefit from the growth
+of the cryptocurrency markets, with minimal exposure to their volatility risks. We
+aim to explain the rationale behind these
+savings products in simple terms. The key
+here is that asset deposits in cryptocurrency
+ecosystems are of intrinsic economic value,
+as they facilitate network consensus mechanisms and automated marketplaces. Therefore, savings in cryptocurrency are associated with some unique advantages unavailable in traditional financial systems. We
+will go through the implementations of how
+savings can be channeled into the staking
+deposits in Proof-of-Stake (PoS) protocols,
+through fixed-rate lending protocols, and
+staking derivative tokens. We will discuss
+potential pitfalls, assess how these protocols
+may behave in market cycles, as well as suggest areas for further research and development. We end by discussing the notion of
+decentralized basic income – analogous to
+universal basic income but guaranteed by financial products on blockchains instead of
+public policies.

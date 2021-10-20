@@ -1,0 +1,18 @@
+Decentralized Finance (DeFi) took shape in 2020. An
+unprecedented amount of over 14 billion USD moved into DeFi
+projects offering trading, loans and insurance. But its growth
+has also drawn the attention of malicious actors. Many projects
+were exploited as quickly as they launched and millions of USD
+were lost. While many developers understand integer overflows
+and reentrancy attacks, security threats to the DeFi ecosystem
+are more complex and still poorly understood. In this paper we
+provide the first overview of in-the-wild DeFi security incidents.
+We observe that many of these exploits are market attacks,
+weaponizing weakly implemented business logic in one protocol
+with credit provided by another to inflate appropriations. Rather
+than misusing individual protocols, attackers increasingly use
+DeFi’s strength of permissionless composability against itself.
+By providing the first holistic analysis of real-world security
+incidents within the nascent financial ecosystem DeFi is, we
+hope to inform threat modeling in decentralized cryptoeconomic
+initiatives in the years ahead.

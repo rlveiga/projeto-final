@@ -1,0 +1,12 @@
+Automated market makers (AMMs) are one of the most
+prominent decentralized finance (DeFi) applications. They allow users
+to exchange units of different types of crypto-assets, without the need to
+find a counter-party. There are several implementations and models for
+AMMs, featuring a variety of sophisticated economic mechanisms. We
+present a theory of AMMs. The core of our theory is an abstract operational model of the interactions between users and AMMs, which can
+be concretised by instantiating the economic mechanisms. We exploit
+our theory to formally prove a set of fundamental properties of AMMs,
+characterizing both structural and economic aspects. We do this by abstracting from the actual economic mechanisms used in implementations
+and identifying sufficient conditions which ensure the relevant properties.
+Notably, we devise a general solution to the arbitrage problem, the main
+game-theoretic foundation behind the economic mechanisms of AMMs.

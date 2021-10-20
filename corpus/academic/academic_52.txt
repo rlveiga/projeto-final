@@ -1,0 +1,13 @@
+The growing adoption of smart contracts on blockchains poses new security risks that can lead to
+significant monetary loss, while existing approaches either provide no (or partial) security guarantees
+for smart contracts or require huge proof effort. To address this challenge, we present SciviK, a
+versatile framework for specifying and verifying industrial-grade smart contracts. SciviK’s versatile
+approach extends previous efforts with three key contributions: (i) an expressive annotation system
+enabling built-in directives for vulnerability pattern checking, neural-based loop invariant inference,
+and the verification of rich properties of real-world smart contracts (ii) a fine-grained model for
+the Ethereum Virtual Machine (EVM) that provides low-level execution semantics, (iii) an IR-level
+verification framework integrating both SMT solvers and the Coq proof assistant.
+We use SciviK to specify and verify security properties for 12 benchmark contracts and a realworld Decentralized Finance (DeFi) smart contract. Among all 158 specified security properties
+(in six types), 151 properties can be automatically verified within 2 seconds, five properties can be
+automatically verified after moderate modifications, and two properties are manually proved with
+around 200 lines of Coq code.

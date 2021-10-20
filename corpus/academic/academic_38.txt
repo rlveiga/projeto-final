@@ -1,0 +1,15 @@
+A key component of blockchain technology is the ledger, viz., a database that,
+unlike standard databases, keeps in memory the complete history of past transactions as in a notarial archive for the benefit of any future test. In secondgeneration blockchains such as Ethereum the ledger is coupled with smart contracts, which enable the automation of transactions associated with agreements
+between the parties of a financial or commercial nature. The coupling of smart
+contracts and ledgers provides the technological background for very innovative
+application areas, such as Decentralized Autonomous Organizations (DAOs),
+Initial Coin Offerings (ICOs) and Decentralized Finance (DeFi), which propelled
+blockchains beyond cryptocurrencies that were the only focus of first generation
+blockchains such as the Bitcoin. However, the currently used implementation
+of smart contracts as arbitrary programming constructs has made them susceptible to dangerous bugs that can be exploited maliciously and has moved
+their semantics away from that of legal contracts. We propose here to recompose the split and recover the reliability of databases by formalizing a notion of
+contract modelled as a finite-state automaton with well-defined computational
+characteristics derived from an encoding in terms of allocations of resources to
+actors, as an alternative to the approach based on programming. To complete
+the work, we use temporal logic as the basis for an abstract query language that
+is effectively suited to the historical nature of the information kept in the ledger.

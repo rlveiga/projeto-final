@@ -1,0 +1,11 @@
+We provide an overview of decentralized protocols like Compound and Aave
+that offer collateralized loans for cryptoasset investors. Compound and Aave are
+two of the most important application in the decentralized finance (DeFi) ecosystem. Using publicly available information on rates, supply and borrow activity,
+and accounts we analyze different elements of the protocols. In particular, we
+estimate ex-post margins that give a comprehensive account of the cost of financial intermediation. We find that ex-post margins considering all markets are 1%
+and lower for stablecoin markets. In addition, we estimate quarterly indicators
+regarding solvency, asset quality, earnings and market risk similar to the ones
+used in traditional banking. This provides a first look at the use of these metrics
+and a comparison between the similarities and challenges to our understanding
+of financial intermediation in these protocols based on tools used for traditional
+banking.

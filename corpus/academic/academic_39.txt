@@ -1,0 +1,16 @@
+Much of the recent excitement around decentralized finance
+(DeFi) comes from hopes that DeFi can be a secure, private, less centralized alternative to traditional finance systems but the accuracy of
+these hopes has to date been understudied; people moving to DeFi sites
+to improve their privacy and security may actually end up with less of
+both.
+In this work, we improve the state of DeFi by conducting the first measurement of the privacy and security properties of popular DeFi applications. We find that DeFi applications suffer from the same kinds of
+privacy and security risks that frequent other parts of the Web. For example, we find that one common tracker has the ability to record Ethereum
+addresses on over 56% of websites analyzed. Further, we find that many
+trackers on DeFi sites can trivially link a user’s Ethereum address with
+pii (e.g., name or demographic information) or phish users.
+This work also proposes remedies to the vulnerabilities we identify, in
+the form of improvements to the most common cryptocurrency wallet.
+Our wallet modification replaces the user’s real Ethereum address with
+site-specific addresses, making it harder for DeFi sites and third parties
+to (
+i) learn the user’s real address and (ii) track them across sites.

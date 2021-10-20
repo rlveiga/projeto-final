@@ -1,0 +1,10 @@
+The recently proposed Uniswap v3 replaces the fungible liquidity
+provider token (LP token) into non-fungible ones, making the design for liquidity mining more difficult. In this paper, we propose a
+flexible liquidity mining scheme that realizes the overall liquidity
+distribution through the fine control of local rewards. From the
+liquidity provider’s point of view, the liquidity provision strategy
+forms a multiplayer zero-sum game. We analyze the Nash Equilibrium and the corresponding strategy, approximately, deploying
+the liquidity proportional to the reward distribution, in some special cases and use it to guide the general situations. Based on the
+strategic response above, such a scheme allows the mining rewards
+provider to optimize the distribution of liquidity for the purpose
+such as low slippage and price stabilization.

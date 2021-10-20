@@ -1,0 +1,9 @@
+We document an ongoing research process towards the implementation and integration of a digital artefact, executing the lifecycle of a leveraged trade with permissionless blockchain technology. By employing core functions of the ‘Dai Stablecoin system’ deployed on the Ethereum blockchain, we produce
+the equivalent exposure of a leveraged position while deterministically automating the monitoring and
+liquidation processes. We demonstrate the implementation and early integration of the artefact into a
+hardened exchange environment through a microservice utilizing standardized API calls. The early results presented in this paper were produced in collaboration with a team of stakeholders at a hosting
+organization, a multi-national online brokerage and cryptocurrency exchange. We utilize the design science research methodology (DSR) guiding the design, development, and evaluation of the artefact. Our
+findings indicate that, while it is feasible to implement the lifecycle of a leveraged trade on the blockchain, the integration of the artefact into a traditional exchange environment involves multiple compromises and drawback. Generalizing the tentative findings presented in this paper, we introduce three
+propositions on the implementation, integration, and implications of executing key business processes
+with permissionless blockchain technologies. By conducting computational design science research, we
+contribute to the information systems discourse on the applied utility of permissionless blockchain technologies in finance and beyond. 

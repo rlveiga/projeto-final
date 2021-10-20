@@ -1,0 +1,12 @@
+To non-experts, the traditional Centralized Finance (CeFi) ecosystem may seem obscure, because users are typically not aware of
+the underlying rules or agreements of financial assets and products.
+Decentralized Finance (DeFi), however, is making its debut as an
+ecosystem claiming to offer transparency and control, which are partially attributable to the underlying integrity-protected blockchain,
+as well as currently higher financial asset yields than CeFi. Yet, the
+boundaries between CeFi and DeFi may not be always so clear cut.
+In this work, we systematically analyze the differences between
+CeFi and DeFi, covering legal, economic, security, privacy and market manipulation. We provide a structured methodology to differentiate between a CeFi and a DeFi service. Our findings show that
+certain DeFi assets (such as USDC or USDT stablecoins) do not
+necessarily classify as DeFi assets, and may endanger the economic
+security of intertwined DeFi protocols. We conclude this work with
+the exploration of possible synergies between CeFi and DeFi.

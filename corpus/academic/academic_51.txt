@@ -1,0 +1,22 @@
+Decentralized finance, i.e., DeFi, has become the
+most popular type of application on many public blockchains
+(e.g., Ethereum) in recent years. Compared to the traditional
+finance, DeFi allows customers to flexibly participate in diverse
+blockchain financial services (e.g., lending, borrowing, collateralizing, exchanging etc.) via smart contracts at a relatively low cost
+of trust. However, the open nature of DeFi inevitably introduces
+a large attack surface, which is a severe threat to the security
+of participants’ funds. In this paper, we proposed BLOCKEYE,
+a real-time attack detection system for DeFi projects on the
+Ethereum blockchain. Key capabilities provided by BLOCKEYE
+are twofold: (1) Potentially vulnerable DeFi projects are identified
+based on an automatic security analysis process, which performs
+symbolic reasoning on the data flow of important service states,
+e.g., asset price, and checks whether they can be externally
+manipulated. (2) Then, a transaction monitor is installed offchain for a vulnerable DeFi project. Transactions sent not only
+to that project but other associated projects as well are collected
+for further security analysis. A potential attack is flagged if
+a violation is detected on a critical invariant configured in
+BLOCKEYE, e.g., Benefit is achieved within a very short time and
+way much bigger than the cost. We applied BLOCKEYE in several
+popular DeFi projects and managed to discover potential security
+attacks that are unreported before.

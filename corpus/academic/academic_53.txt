@@ -1,0 +1,12 @@
+Decentralized finance (DeFi) has become one of the most
+successful applications of blockchain and smart contracts. The DeFi
+ecosystem enables a wide range of crypto-financial activities, while the
+underlying smart contracts often contain bugs, with many vulnerabilities
+arising from the unforeseen consequences of composing DeFi protocols
+together. In this paper, we propose a formal process-algebraic technique
+that models DeFi protocols in a compositional manner to allow for efficient
+property verification. We also conduct a case study to demonstrate the
+proposed approach in analyzing the composition of two interacting DeFi
+protocols, namely, Curve and Compound. Finally, we discuss how the
+proposed modeling and verification approach can be used to analyze
+financial and security properties of interest.

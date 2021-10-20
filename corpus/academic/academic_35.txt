@@ -1,0 +1,13 @@
+The continuing expansion of the blockchain ecosystems has
+attracted much attention from the research community. However, although a large number of research studies have been
+proposed to understand the diverse characteristics of individual blockchain systems (e.g., Bitcoin or Ethereum), little is known at a comprehensive level on the evolution of
+blockchain ecosystems at scale, longitudinally, and across
+multiple blockchains. We argue that understanding the dynamics of blockchain ecosystems could provide unique insights that cannot be achieved through studying a single
+static snapshot or a single blockchain network alone. Based
+on billions of transaction records collected from three representative and popular blockchain systems (Bitcoin, Ethereum
+and EOSIO) over 10 years, we conduct the first study on the
+evolution of multiple blockchain ecosystems from different
+perspectives. Our exploration suggests that, although the
+overall blockchain ecosystem shows promising growth over
+the last decade, a number of worrying “outliers” exist that
+have disrupted its evolution.
