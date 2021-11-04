@@ -1,0 +1,5 @@
+Proof of identity (PoID) is a consensus protocol for permission-less blockchains, in which each uniquely identified individual receives one equal unit of voting power and associated rewards (minting token). The protocol is based on biometric identification, humanity identification parties and additional verification parties.
+
+The proof of identity supersedes the approach of proof of work and proof of stake which distribute voting power and rewards to participants according to their investment in some activity or resource and introduces the opportunity to create a universal basic income (UBI) for individuals.
+
+The proof of identity solves the problem with the proof of personhood in which individuals are requested to attend recurrent pseudonymous parties and creates a network that is permanently secured and censorship resilient.

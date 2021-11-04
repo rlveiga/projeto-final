@@ -1,0 +1,1 @@
+Stacks project, formerly Blockstack, is an open-source platform to build smart contracts and decentralized blockchain applications.[1] Stacks blockchain connects to Bitcoin to enable apps and smart contracts.[2] In addition to smart contracts, the Stacks project provides open-source software for authentication, and data storage.[3]

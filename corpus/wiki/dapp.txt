@@ -1,0 +1,9 @@
+A decentralized application (DApp,[1] dApp,[2] Dapp, or dapp) is a computer application that runs on a decentralized computing system.
+
+DApps have been popularized by distributed ledger technologies (DLT) such as the Ethereum blockchain,[3] where DApps are often referred to as smart contracts. DApps have their backend code running on a decentralized peer-to-peer network, as opposed to typical applications where the backend code is running on centralized servers. A DApp can have frontend code and user interfaces written in any language that can make calls to its backend.
+
+Decentralized applications are stored on and executed by a blockchain system such as Ethereum or Bitcoin. DApps are typically open-source. Validation of a DApp is incentivized via tokens to, in compliance with a specific protocol agreed upon within the community.[citation needed]
+
+The Institute of Electrical and Electronics Engineers hosted conferences on DApps in 2019 and 2020.[2]
+
+DApps have been utilized in decentralized finance (DeFi), in which dapps that perform financial functions on blockchains.[4]

@@ -12,6 +12,7 @@ cd dygiepp
 # Format
 python scripts/new-dataset/format_new_dataset.py data/blockchain_whitepapers/raw_data data/blockchain_whitepapers/formatted.jsonl scierc
 python scripts/new-dataset/format_new_dataset.py data/blockchain_academia/raw_data data/blockchain_academia/formatted.jsonl scierc
+python scripts/new-dataset/format_new_dataset.py data/blockchain_wiki/raw_data data/blockchain_wiki/formatted.jsonl scierc
 
 # Predict
 allennlp predict \
@@ -31,5 +32,15 @@ allennlp predict \
   --include-package dygie \
   --use-dataset-reader \
   --output-file data/blockchain_academia/result.jsonl \
+  --cuda-device -1 \
+  --silent
+
+allennlp predict \
+  models/scierc_lightweight/model.tar.gz \
+  data/blockchain_wiki/formatted.jsonl \
+  --predictor dygie \
+  --include-package dygie \
+  --use-dataset-reader \
+  --output-file data/blockchain_wiki/result.jsonl \
   --cuda-device -1 \
   --silent

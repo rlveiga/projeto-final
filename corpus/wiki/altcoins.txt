@@ -1,0 +1,5 @@
+Tokens, cryptocurrencies, and other types of digital assets that are not bitcoin are collectively known as alternative cryptocurrencies,[27][28][29] typically shortened to "altcoins" or "alt coins".[30][31] Paul Vigna of The Wall Street Journal also described altcoins as "alternative versions of bitcoin"[32] given its role as the model protocol for altcoin designers. The term is commonly used to describe coins and tokens created after bitcoin. A list of some cryptocurrencies can be found in the List of cryptocurrencies article.
+
+Altcoins often have underlying differences with bitcoin. For example, Litecoin aims to process a block every 2.5 minutes, rather than bitcoin's 10 minutes, which allows Litecoin to confirm transactions faster than bitcoin.[33] Another example is Ethereum, which has smart contract functionality that allows decentralized applications to be run on its blockchain.[34] Ethereum was the most used blockchain in 2020, according to Bloomberg News.[35] In 2016, it had the largest "following" of any altcoin, according to the New York Times.[36]
+
+Significant rallies across altcoin markets are often referred to as an "altseason".[37][38]

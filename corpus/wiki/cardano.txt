@@ -1,0 +1,11 @@
+Cardano is a public blockchain platform. It is open-source and decentralized, with consensus achieved using proof of stake. It can facilitate peer-to-peer transactions with its internal cryptocurrency, Ada.[4]
+
+Cardano was founded in 2015 by Ethereum co-founder Charles Hoskinson. The development of the project is overseen and supervised by the Cardano Foundation based in Zug, Switzerland.[5][6] It is also the largest cryptocurrency to use a proof-of-stake blockchain, which is seen as a greener alternative to proof-of-work protocols.[7] Atypically, Cardano does not have a white paper. Instead, it uses design principles intended to overcome issues faced by other cryptocurrencies such as scalability, interoperability, and regulatory compliance.[12]
+
+Cardano uses a proof-of-stake protocol named Ouroboros;[13] this is in contrast to Bitcoin and Ethereum, which use proof-of-work protocols.[14] Proof-of-stake blockchains use significantly less energy than proof-of-work chains.[14] In February 2021, Hoskinson estimated the Cardano network used 6 GWh annually, less than 0.01% of the 110.53 TWh used by the Bitcoin network as estimated by the University of Cambridge.[15][16] Cardano reached a market cap of $77 billion in May 2021 and was solidified its position as the biggest proof-of-stake cryptocurrency.[17][18]
+
+Within the Cardano platform, Ada exists on the settlement layer. This layer is similar to Bitcoin and keeps track of transactions. The second layer is the computation layer. This layer is designed to be similar to Ethereum, enabling smart contracts and applications to run on the platform.[19]
+
+Cardano implemented decentralized finance (DeFi) services on September 12 2021, including an upgrade to enable smart contracts and the ability to build decentralized applications (DApps).[20] Also included is Plutus, a Turing-complete smart contract language written in Haskell, and a specialised smart contract language, Marlowe, designed for non-programmers in the financial sector. Cardano's smart contract languages allow developers to run end-to-end tests on their program without leaving the integrated development environment or deploying their code.[21][22]
+
+Holders of Cardano can stake their Ada to receive interest on their investment through so-called epoch payments.[23]

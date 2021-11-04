@@ -1,0 +1,7 @@
+A distributed ledger (also called a shared ledger or distributed ledger technology or DLT) is a consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions.[1] Unlike with a centralized database, there is no central administrator.[2]
+
+In some cases an alternative term is used: RJT for Replicated Journal Technology, since the information is replicated in the nodes containing full copy of the information and the information in the blocks is included in timely order, more in the form of an accounting journal than as an accounting ledger.[3]
+
+A peer-to-peer network is required as well as consensus algorithms to ensure replication across nodes is undertaken.[2] One form of distributed ledger design is the blockchain system, which can be either public or private.
+
+The distributed ledger database is spread across several nodes (devices) on a peer-to-peer network, where each replicates and saves an identical copy of the ledger and updates itself independently. The primary advantage is the lack of central authority. When a ledger update happens, each node constructs the new transaction, and then the nodes vote by consensus algorithm on which copy is correct. Once a consensus has been determined, all the other nodes update themselves with the new, correct copy of the ledger.[4][5] Security is accomplished through cryptographic keys and signatures.[6][7][8]

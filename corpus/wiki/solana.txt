@@ -1,0 +1,5 @@
+Solana is a public blockchain platform. It is open-source and decentralized, with consensus achieved using proof of stake and proof of history. Its internal cryptocurrency is SOL. Bloomberg considers Solana to be "a potential long-term rival for Ethereum".[1][2] Like Ethereum, Solana can interact with smart contracts.
+
+On 14 September 2021, the Solana blockchain went offline after a surge of transactions caused the network to fork, and different validators had different views on the state of the network. The network was successfully brought back online early on 15 September.[3]
+
+The Solana platform has become increasingly popular as of October 2021 because of the perceived mining efficiency and scalability, i.e., the perception that the blockchain will be relatively easy to use when lots of computers are running it. Particularly, the perceived scalability leads many to think it will be an effective DeFi platform. [4] Solana's scaling capability, comfortably handling roughly 50,000 transactions per second, is also faster than major competitors.[5]

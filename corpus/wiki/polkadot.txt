@@ -1,0 +1,9 @@
+Polkadot is a sharded heterogeneous multi-chain architecture which enables external networks as well as customized layer one "parachains" to communicate, creating an interconnected internet of blockchains.[1] The network uses an environmentally-friendly proof of stake consensus algorithm.[2]
+
+The protocol was created by the Ethereum co-founder Gavin Wood and is developed by the Web3 Foundation with the initial implementation by Parity Technologies.[citation needed]
+
+In June 2021, Coinbase added Polkadot to its cryptocurrency trading platform.[3][unreliable source?]
+
+Polkadot's first token sale closed on October 27, 2017 raising a total of 485,331 ETH (Ether, the currency of the Ethereum blockchain).[4]
+
+Its smallest subdivision (which is to ten decimal places) is the Planck, named after the physicist Max Planck. [5]
