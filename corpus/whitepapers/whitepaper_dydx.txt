@@ -1,0 +1,8 @@
+dYdX allows creation of entirely new asset classes which derive their value from underlying
+blockchain-based assets. Financial products such as derivatives and margin trades allow investors to
+achieve superior risk management with their portfolios, and open up new avenues for speculation. They
+also increase market efficiency for the underlying asset by aiding in price discovery and allowing
+individuals to express more complex opinions on price and volatility. dYdX provides advantages over
+traditional financial products by eliminating the need for a regulated central clearing house, providing
+global and equal access, and allowing users full control of their funds at all times. dYdX will offer a number of decentralized protocols implementing various types of crypto-asset financial
+products. These protocols are comprised of open source Ethereum Smart Contracts and standards.

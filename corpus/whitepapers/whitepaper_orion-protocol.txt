@@ -1,1 +1,10 @@
-Built on the most advanced liquidity aggregator ever developed, Orion Protocol solves some of the largest issues in DeFi by aggregating the liquidity of the entire crypto market into one decentralized platform. Governing the protocol is the proprietary staking mechanism Delegated Proof of Broker, fulfilling every function via a decentralized brokerage with the supply-capped ORN token at its core. This underpins each industry-critical solution built on the protocol, from Orion Terminal to Orion Enterprise solutions for blockchains, exchanges, and crypto projects, with thirteen different revenue streams. Orion is a new kind of DeFi platform that combines the best features of exchanges, brokerages, and instant trading apps. The platform is built around a liquidity aggregator connected to all of the major crypto exchanges and swap pools (centralized and decentralized), enabling users to gain the best price for their trades from a single portal. Along with powerful tools for portfolio management, Orion offers exceptional security, convenience, and flexibility. The platform is suitable for experienced traders, institutional traders, and newcomers alike. The Orion platform and ecosystem is powered by the ORN token, an ERC-20 token. Orion Protocol will be an open source repository for dApps, making all of the platform’s functionality available to developers and businesses, enabling anyone to build powerful financial tools. 
+Orion is a new kind of DeFi platform that combines the best features of exchanges,
+brokerages, and instant trading apps. The platform is built around a liquidity aggregator
+connected to all of the major crypto exchanges and swap pools (centralized and
+decentralized), enabling users to gain the best price for their trades from a single portal.
+Along with powerful tools for portfolio management, Orion offers exceptional security,
+convenience, and flexibility. The platform is suitable for experienced traders, institutional
+traders, and newcomers alike. The Orion platform and ecosystem is powered by the ORN token, an ERC-20 token. Orion
+Protocol will be an open source repository for dApps, making all of the platform’s
+functionality available to developers and businesses, enabling anyone to build powerful
+financial tools.

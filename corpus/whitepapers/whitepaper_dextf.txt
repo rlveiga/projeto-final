@@ -1,0 +1,8 @@
+In this article we write about our mission statement and describe what sets us apart from the existing solutions in DeFi’s asset management segment.
+When it comes to managing assets, the main worry (other than the performance) is usually reliability, in other words, the trustability of who is managing your money.
+Specifically in DeFi, hodling or simply trading your favorite assets requires multiple transactions and prohibitive gas fees, compounded to the n times as many assets you’re looking to invest in.
+DEXTF is an asset management protocol that empowers anyone to mint, trade, redeem and provide liquidity on non-custodial oracle-less tokenized portfolios (XTFs).
+XTF token funds are mintable and redeemable for the underlying assets (click here for the full list) and they are unique for each fund created.
+DEXTF is built for DeFi to exchange value at a higher velocity without ever losing track of ownership.
+Earn rewards and fees by providing liquidity XTF fund tokens.
+With the introduction of the new tokenomics, you can earn by just holding a tokenized holding. 

@@ -1,1 +1,11 @@
-Loopring is an open protocol for building decentralized exchanges. Loopring operates as a public set of smart contracts responsible for trade and settlement, with an off-chain group of actors aggregating and communicating orders. The protocol is free, extensible, and serves as a standardized building block for decentralized applications (dApps) that incorporate exchange functionality. Its interoperable standards facilitate trustless, anonymous trading. An important improvement over current decentralized exchange protocols is the ability for orders to be mix-and-matched with other, dissimilar orders, obviating the constraints of two-token trading pairs and drastically improving liquidity. Loopring also employs a unique and robust solution to prevent front-running: the unfair attempt to submit transactions into a block quicker than the original solution provider. Loopring is blockchain agnostic, and deployable on any blockchain with smart contract functionality. At the time of writing, it’s operable on Ethereum [1] [2] and Qtum [3] with NEO [4] under construction. 
+Loopring is a software running on Ethereum that aims to incentivize a global network of users to operate a platform that enables the creation of new types of crypto asset exchanges. 
+
+One of an emerging number of decentralized finance (DeFi) protocols, Loopring uses multiple cryptocurrencies, including its own LRC cryptocurrency, to together provide for this platform.
+
+Most notably, Loopring claims its platform will allow exchanges built on top of it to sidestep the slow speeds and high costs associated with decentralized exchanges on Ethereum through the use of a newer type of cryptography called zero-knowledge rollups, or zkRollups. 
+
+With zkRollups, Loopring asserts its exchanges can offer faster settlements for traders. Rather than settling trades on the Ethereum blockchain directly (as other decentralized exchanges do), zkRollups enable Loopring exchanges to complete key computations elsewhere. 
+
+The idea is that this can reduce the number of transactions that a Loopring exchange will need to submit to the Ethereum network, thus increasing speed and reducing costs for traders. 
+
+This is in contrast to other decentralized exchanges, where trades require transactions to be confirmed by the Ethereum network, taking minutes instead of seconds or milliseconds. 
