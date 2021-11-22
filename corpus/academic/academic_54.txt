@@ -1,0 +1,15 @@
+Blockchain technology is affected by massive limitations in scalability with consequent repercussions on performance. This discussion aims at analyzing the
+state of the art of current available Layer II solutions to overcome these limitations, both focusing on theoretical and practical aspects and highlighting the
+main differences among the examined frameworks. The structure of the work
+is based on three major sections. In particular, the first one is an introductory
+part about the technology, the scalability issue and Layer II as a solution. The
+second section represents the core of the discussion and consists of three different subsections, each with a detailed examination of the respective solution
+(Lightning Network, Plasma, Rollups); the analysis of each solution is based on
+how it affects five key aspects of blockchain technology and Layer II: scalability,
+security, decentralization, privacy, fees and micropayments (the last two are analyzed together given their high correlation). Finally, the third section includes
+a tabular summary, followed by a detailed description of a use-case specifically
+thought for a practical evaluation of the presented frameworks. The results
+of the work met expectations: all solutions effectively contribute to increasing
+scalability. A crucial clarification is that none of the three dominates the others in all possible fields of application, and the consequences in adopting each,
+are different. Therefore, the choice depends on the application context, and a
+trade-off must be found between the aspects previously mentioned.

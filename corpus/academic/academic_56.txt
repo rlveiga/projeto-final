@@ -1,0 +1,7 @@
+Cryptocurrencies and Blockchain-based technologies are disrupting all markets. While the potential of such technologies remains to be seen, there is a current
+need to understand emergent patterns of user behavior and token adoption in order to design future products. In this paper we analyze the social dynamics taking
+place during one arbitrary day on the ERC20 platform. We characterize the network of token transactions among agents. We show heterogeneous profiles of user
+behavior, portfolio diversity, and token adoption. While most users are specialized
+in transacting with a few tokens, those that have diverse portfolios are bridging
+across large parts of the network and may jeopardize the system stability. We
+believe this work to be a foundation for unveiling the usage dynamics of cryptocurrencies networks.

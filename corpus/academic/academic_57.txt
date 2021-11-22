@@ -1,0 +1,23 @@
+Blockchain is a form of distributed ledger technology (DLT) where data is shared among users connected over the
+internet. Transactions are data state changes on the blockchain
+that are permanently recorded in a secure and transparent way
+without the need of a third party. Besides, the introduction of
+smart contracts to the blockchain has added programmability
+to the blockchain and revolutionized the software ecosystem
+leading toward decentralized applications (DApps) attracting
+businesses and organizations to employ this technology. Although
+promising, blockchains and smart contracts have no access to the
+external systems (i.e., off-chain) where real-world data and events
+resides; consequently, the usability of smart contracts in terms
+of performance and programmability would be limited to the onchain data. Hence, blockchain oracles are introduced to mitigate
+the issue and are defined as trusted third-party services that send
+and verify the external information (i.e., feedback) and submit it
+to smart contracts for triggering state changes in the blockchain.
+In this paper, we will study and analyze blockchain oracles with
+regard to how they provide feedback to the blockchain and smart
+contracts. We classify the blockchain oracle techniques into two
+major groups such as voting-based strategies and reputationbased ones. The former mainly relies on participants’ stakes
+for outcome finalization while the latter considers reputation in
+conjunction with authenticity proof mechanisms for data correctness and integrity. We then provide a structured description
+of patterns in detail for each classification and discuss research
+directions in the end.

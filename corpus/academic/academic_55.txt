@@ -1,0 +1,10 @@
+Following the birth of Bitcoin and the introduction of the
+Ethereum ERC20 protocol a decade ago, recent years have witnessed a
+growing number of cryptographic tokens that are being introduced by
+researchers, private sector companies and NGOs. The ubiquitous of such
+Blockchain based cryptocurrencies give birth to a new kind of rising economy, which presents great difficulties to modeling its dynamics using conventional semantic properties. Our work presents the analysis of the dynamical properties of the ERC20 protocol compliant crypto-coins trading
+data using a network theory prism. We examine the dynamics of ERC20
+based networks over time by analyzing a meta-parameter of the network
+— the power of its degree distribution. Our analysis demonstrates that
+this parameter can be modeled as an under-damped harmonic oscillator
+over time, enabling a year forward of network parameters predictions.
